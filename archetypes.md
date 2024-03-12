@@ -1,0 +1,3 @@
+- Myself. Eschew personal growth for hedonism (Will-to-hide)
+- Selfless. Consider others pain as much as yours (Will-to-whine): think protestors 
+- Veni, vidi, vici. Will-to-Power (Will-to-tame)
