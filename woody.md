@@ -19,7 +19,7 @@
 4. Chromatic
    - Immigration
       - Complexion
-      - Ethnic identities unrepresented in "We" the people
+      - Ethnic identities [unrepresented](https://archive.nytimes.com/www.nytimes.com/books/first/m/meade-woody.html?simple=True) in "We" the people
       - Legitimacy of non Anglo-Saxon roots 
 5. Temperament
    - US constitution
