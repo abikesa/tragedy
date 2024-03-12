@@ -20,7 +20,8 @@
    - Immigration
       - Complexion
       - Ethnic identities [unrepresented](https://archive.nytimes.com/www.nytimes.com/books/first/m/meade-woody.html?simple=True) in "We" the people
-      - Legitimacy of non Anglo-Saxon roots 
+      - Legitimacy of non Anglo-Saxon roots
+      - "She's preoccupied with `fundamentals`," Woody Allen remarked. But not entirely so. As a young woman, it was `fantasy`, not fundamentals, that initially drew her to her future husband.
 5. Temperament
    - US constitution
 6. Expression
