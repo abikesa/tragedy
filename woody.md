@@ -27,7 +27,13 @@ afterlife, she doesn't believe in a present one either." — Woody Allen, 1967
 5. Temperament
    - US constitution
 6. Expression
-   - Supreme court justices interpretation
+   - Withdrawn
+      - “For better or worse,” he writes, “I sort of live in a [bubble](https://www.vulture.com/2020/04/woody-allen-apropos-of-nothing-review.html). Thou hidest!
+   - Engaged
+      - I gave up reading about myself decades ago and have no interest in other people’s appraisal or analysis of my work.” O, thou intolerant of who whinest (like Tyler Perry) 
+   - Imposing
+      - Supreme court justices interpretation
+
      
 # Oedipus or the Wrecks of the WASP Disguise
 
