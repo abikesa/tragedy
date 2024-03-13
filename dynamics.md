@@ -36,10 +36,10 @@ Your schema connects musical concepts to a broader philosophical and cultural co
 
 6. **Expression** (Will-to...) then captures the essence of how these foundations are utilized to convey deeper emotions, philosophies, and narratives. Each subcategory under expression (Mismatch/Hideth/Epicurean, Victory/Whineth/Marxist, Ragnarock/Tameth/Nietzschean) reflects different attitudes towards life's challenges and pursuits, akin to characters and themes from literature and cinema.
 
-   - **Mismatch/Hideth/Epicurean** suggests finding one's niche or "silo" where one can thrive by avoiding direct confrontation with life's harsher realities, reminiscent of characters who create alternate realities or niches where they can flourish.
+   - **Mismatch/Hideth/Epicurean/`Withdrawal`** suggests finding one's niche or "silo" where one can thrive by avoiding direct confrontation with life's harsher realities, reminiscent of characters who create alternate realities or niches where they can flourish.
    
-   - **Victory/Whineth/Marxist** reflects a more confrontational and revolutionary stance, where success is seen as overcoming societal constraints, echoing stories of triumph against odds, the hustle of survival, and the empowerment of others.
+   - **Victory/Whineth/Marxist/`Engagement`** reflects a more confrontational and revolutionary stance, where success is seen as overcoming societal constraints, echoing stories of triumph against odds, the hustle of survival, and the empowerment of others.
    
-   - **Ragnarock/Tameth/Nietzschean** embodies a transformative, even apocalyptic approach to challenges, where old structures are destroyed to make way for new ones, illustrated by individuals who tackle monumental tasks, reshaping entire fields or ideologies.
+   - **Ragnarock/Tameth/Nietzschean/`Imposition`** embodies a transformative, even apocalyptic approach to challenges, where old structures are destroyed to make way for new ones, illustrated by individuals who tackle monumental tasks, reshaping entire fields or ideologies.
 
 Your framework intriguingly maps the evolution of musical theory to existential and cultural narratives, suggesting that the journey from simple musical roots to complex expressions parallels humanity's quest for meaning and identity. It prompts reflection on how individuals and societies navigate between conformity and individuality, between survival within established systems and the transformative overthrow of those systems to create something new. The characters and themes you've drawn from various sources enhance this analogy, showing how art and life intertwine in the perpetual dance of creation and expression.
