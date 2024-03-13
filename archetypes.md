@@ -1,3 +1,5 @@
+![](https://pyxis.nymag.com/v1/imgs/bc1/3ad/dc50b16f7a4f3dab94df351ead96e807c4-woody-allen-manhantann.2x.rhorizontal.w1100.jpg)
+
 - Myself. Eschew personal growth for hedonism (Will-to-hide)
 - Selfless. Consider others pain as much as yours (Will-to-whine): think protestors 
 - Veni, vidi, vici. Will-to-Power (Will-to-tame)
