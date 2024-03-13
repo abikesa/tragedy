@@ -30,7 +30,8 @@ afterlife, she doesn't believe in a present one either." — Woody Allen, 1967
    - Withdrawn
       - “For better or worse,” he writes, “I sort of live in a [bubble](https://www.vulture.com/2020/04/woody-allen-apropos-of-nothing-review.html). Thou hidest!
    - Engaged
-      - I gave up reading about myself decades ago and have no interest in other people’s appraisal or analysis of my work.” O, thou intolerant of who whinest (like Tyler Perry) 
+      - I gave up reading about myself decades ago and have no interest in other people’s appraisal or analysis of my work.” O, thou intolerant of who whinest (like Tyler Perry)
+      - Of Husbands and Wives nominee Judy Davis, with whom he has worked five times, he writes, “I was always intimidated by her … I never spoke to her, and she, instinctively sensing I had nothing of `value` to say, never spoke to me.” And his cultural horizons are, he says bluntly, limited. This is clearly evident in the absence of chemistry in "To Rome with Love" where they are spousal and where she is least impressive in her entire filmography
    - Imposing
       - Supreme court justices interpretation
 
