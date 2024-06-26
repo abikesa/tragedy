@@ -11,4 +11,10 @@
 ### Sing O Muse! 4
 ### Apollo 5, 6
 
+                                                                   1. Evil
+                                                                           \
+                                                           2. Foreseeth -> 4. Crieth 1:20 -> 5. Hideth 22:3 -> 6. Morality
+                                                                           /
+                                                                           3. Prudence
+                                                                           
 ![](https://abikesa.github.io/zarathustra/zara.png)
