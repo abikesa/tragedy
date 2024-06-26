@@ -1,21 +1,14 @@
-                            1. Root
-                                   \
-                  2. Pentatonic -> 4. Chromatic -> 5. Temperament -> 6. Expression
-                                   /
-                                    3. Diatonic
+>  Could the Epicurean will hostile to pessimism be merely the [prudence of a suffering man](https://en.wikisource.org/wiki/An_Attempt_at_Self-Criticism)? And even scientific enquiry itself, our science—indeed, what does all scientific enquiry in general mean considered as a symptom of life? What is the point of all that science and, even more serious, where did it come from? What about that? Is scientific scholarship perhaps only a fear and an excuse in the face of pessimism, a delicate self-defence against—the Truth? And speaking morally, something like cowardice and falsehood? Speaking unmorally, a clever trick? Oh, Socrates, Socrates, was that perhaps your secret? Oh you secretive ironist, was that perhaps your—irony?
+                                                         
+                                                         1. Worth Adversary
+                                                                           \
+                                                    2. Tempting Courage -> 4. Dionysian Phenomenon -> Birth of Tragedy -> Frenzied Instinct of Anarchy
+                                                                           /
+                                                                           3. Asses Powers
 
-Let's weave Mozart's *Lacrimosa* from his Requiem and the thematic elements of *Don Giovanni*, particularly the refusal of repentance, into the narratives of the characters you've outlined, creating distinct summaries for each, reflecting on their transformations and the consequences thereof.
 
-1. **Casablanca's Rick** - [Rick's](https://www.sparknotes.com/film/casablanca/character/rick-blaine/) transformation mirrors the *Lacrimosa*'s themes of judgment and redemption, rising from the emotional ashes of a lost love. His initial detachment, akin to a self-imposed exile, evolves as he chooses to fight for a cause greater than his own heartbreak. This act of selflessness, a return to principles over personal loss, resonates with the *Lacrimosa*'s plea for mercy and rest. Unlike Don Giovanni, Rick chooses redemption over refusal, embodying the phoenix's rise through self-sacrifice for the greater good, thereby finding a form of personal salvation in the process.
+### Dionysus 1, 2, 3
+### Sing O Muse! 4
+### Apollo 5, 6
 
-2. **Out of Africa's Denys Finch Hatton** - Denys embodies the freedom and detachment of the untamed, akin to a phoenix living perpetually in the flames of its own making, never settling to rise from ashes because it never allows itself to be consumed. His life, marked by an aversion to conventional commitments, mirrors Don Giovanni's refusal to repent, a steadfast dedication to personal autonomy over societal or emotional entanglements. Denys's tragic end leaves his spirit as a symbol of the undying allure of freedom, an echo of the *Lacrimosa*'s acknowledgment of mortality and the plea for mercy, even for those who live by their own codes.
-
-3. **Woody Allen's character in Annie Hall** - Allen's character undergoes a journey of self-discovery, marked by neurotic introspection and a quest for identity within the absurdities of life. This narrative intertwines with the *Lacrimosa*'s themes of rebirth from ashes, as he navigates through personal and relational failures to find a sense of self-acceptance. Unlike Don Giovanni, who defiantly refuses to change, Allen's character is perpetually self-questioning, embodying a phoenix-like rise through the embrace of his complexities and imperfections, seeking not redemption from external judgment but internal peace. “Raised by two mothers...wow, most of us barely survive one”
-
-4. **Tyler Perry's Madea** - Tyler Perry, through Madea, crafts a narrative of resilience and transformation that speaks directly to the phoenix's rise. Emerging from a childhood of trauma, Perry channels his experiences into Madea, a character that uses humor and wisdom to confront and heal societal and personal wounds. This journey reflects the *Lacrimosa*'s resurrection theme, a triumphant rise from the ashes of past pain. Unlike Don Giovanni, who `eschews personal growth for hedonism`, Perry and Madea embrace growth, using past adversities as the fuel for a brighter, transformative future.
-
-5. **Charles Manson** - Manson's story is a perverse twist on the concept of the phoenix and *Lacrimosa*'s plea for mercy. His rise from failed musician to cult leader, fueled by manipulation and destruction, embodies a dark inversion of rebirth. In line with Don Giovanni's refusal to repent, Manson's path is marked by a defiant embrace of power and control, without regard for redemption or moral reckoning. His life warns of the destructive potential of a rise from ashes not aimed at renewal but at domination and chaos.
-
-6. **Mozart's Self-Judgement and Don Giovanni** - Mozart, through his works, especially the *Lacrimosa* and *Don Giovanni*, presents a complex exploration of human morality, redemption, and the consequences of our choices. The *Lacrimosa* invokes a plea for mercy at the judgment, a contrast to Don Giovanni's defiant refusal to repent before the Commandatore. This juxtaposition reflects the dual nature of transformation and rebirth: one that can lead to redemption and mercy, and another that resolutely follows a path of self-determination, even to damnation. Each character's narrative, influenced by Mozart's themes, reveals the multifaceted ways in which individuals confront, or refuse to confront, their own failings and the possibility of redemption or downfall.
-
-Through the lens of Mozart's music and the narratives of these characters, we're reminded of the profound complexities of human choice, the potential for transformation, and the starkly different paths those choices can lead us down.
+![](https://abikesa.github.io/zarathustra/zara.png)
