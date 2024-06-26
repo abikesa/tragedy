@@ -7,7 +7,7 @@
                                                                            3. Assess Powers
 
 
-### Dionysus 1, 2, 3
+### Dionysus 1, [2](https://abikesa.github.io/aficionado/), 3
 ### Sing O Muse! 4
 ### Apollo 5, 6
 
