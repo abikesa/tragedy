@@ -4,7 +4,7 @@
                                                                            \
                                                     2. Tempting Courage -> 4. Dionysian Phenomenon -> 5. Birth of Tragedy -> 6. Frenzied Instinct of Anarchy
                                                                            /
-                                                                           3. Asses Powers
+                                                                           3. Assess Powers
 
 
 ### Dionysus 1, 2, 3
